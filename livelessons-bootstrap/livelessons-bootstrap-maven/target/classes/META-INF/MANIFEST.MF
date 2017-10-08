@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: livelessons-bootstrap-maven
+Implementation-Version: 1.2.1.RELEASE
+Built-By: chand
+Implementation-Vendor-Id: livelessons
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

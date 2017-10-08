@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "vehicle.service",
+    "type": "demo.service.RemoteVehicleDetailsServiceProperties",
+    "sourceType": "demo.service.RemoteVehicleDetailsServiceProperties"
+  }],
+  "properties": [{
+    "name": "vehicle.service.root-url",
+    "type": "java.lang.String",
+    "sourceType": "demo.service.RemoteVehicleDetailsServiceProperties"
+  }],
+  "hints": []
+}

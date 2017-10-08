@@ -1,0 +1,28 @@
+{
+  "groups": [{
+    "name": "myapp",
+    "type": "demo.MyProperties",
+    "sourceType": "demo.MyProperties"
+  }],
+  "properties": [
+    {
+      "name": "myapp.address",
+      "type": "java.lang.String",
+      "description": "The remote address.",
+      "sourceType": "demo.MyProperties"
+    },
+    {
+      "name": "myapp.port",
+      "type": "java.lang.Integer",
+      "description": "The connection port.",
+      "sourceType": "demo.MyProperties"
+    },
+    {
+      "name": "myapp.type",
+      "type": "demo.ConnectionType",
+      "description": "The connection type.",
+      "sourceType": "demo.MyProperties"
+    }
+  ],
+  "hints": []
+}

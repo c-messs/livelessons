@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: livelessons-operations-actuator-extensions
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: chand
+Implementation-Vendor-Id: livelessons
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/livelessons-
+ parent/livelessons-operations/livelessons-operations-actuator-extensi
+ ons/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

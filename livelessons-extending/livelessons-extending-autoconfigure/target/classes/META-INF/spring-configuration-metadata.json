@@ -1,0 +1,25 @@
+{
+  "groups": [{
+    "name": "modelmapper",
+    "type": "com.example.autoconfigure.modelmapper.ModelMapperProperties",
+    "sourceType": "com.example.autoconfigure.modelmapper.ModelMapperProperties"
+  }],
+  "properties": [
+    {
+      "name": "modelmapper.add-converters",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.autoconfigure.modelmapper.ModelMapperProperties"
+    },
+    {
+      "name": "modelmapper.add-mappings",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.autoconfigure.modelmapper.ModelMapperProperties"
+    },
+    {
+      "name": "modelmapper.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.autoconfigure.modelmapper.ModelMapperProperties"
+    }
+  ],
+  "hints": []
+}
